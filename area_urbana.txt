@@ -1,0 +1,50 @@
+Abdon Batista 	1,355
+Abelardo Luz 	5,7657
+Agrolândia 	7,0533
+Agronômica 	3,889
+Água Doce 	2,1981
+Águas de Chapecó 	1,4878
+Águas Frias 	0,8884
+Águas Mornas 	2,6333
+Alfredo Wagner 	2,5237
+Alto Bela Vista 	0,8217
+Anchieta 	2,1373
+Angelina 	1,1289
+Anita Garibaldi 	2,2368
+Anitápolis 	0,8823
+Antônio Carlos 	4,2385
+Apiúna 	5,5529
+Arabutã 	1,1974
+Araquari 	21,7632
+Araranguá 	37,2031
+Armazém 	4,3165
+Arroio Trinta 	1,2713
+Arvoredo 	0,8903
+Ascurra 	4,3246
+Atalanta 	0,9315
+Aurora 	1,9185
+Balneário Arroio do Silva 	11,2847
+Balneário Barra do Sul 	8,4241
+Balneário Camboriú 	16,1643
+Balneário Gaivota 	12,0837
+Balneário Piçarras 	12,0849
+Balneário Rincão 	9,9409
+Bandeirante 	1,9954
+Barra Bonita 	0,3284
+Barra Velha 	18,6543
+Bela Vista do Toldo 	1,9503
+Belmonte 	0,8446
+Benedito Novo 	5,8167
+Biguaçu 	21,5415
+Blumenau 	98,2463
+Bocaina do Sul 	1,5369
+Bom Jardim da Serra 	1,1349
+Bom Jesus 	1,4154
+Bom Jesus do Oeste 	0,7287
+Bom Retiro 	2,6698
+Bombinhas 	10,3883
+Botuverá 	3,0894
+Braço do Norte 	18,6149
+Braço do Trombudo 	2,0418
+Brunópolis 	0,9799
+Brusque 	51,1729 
